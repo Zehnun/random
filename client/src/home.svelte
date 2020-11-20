@@ -2,7 +2,7 @@
 	let userPost = [
 		{ title: 'hello', text: 'test123'}, 
 		{ title: 'five', text: "this is not ok"}, 
-		{ title: 'test liitle nigger', text: 'awesome'}
+		{ title: 'test liitle hi', text: 'awesome'}
     ];
     
 </script>
